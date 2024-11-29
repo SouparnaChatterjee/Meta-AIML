@@ -1,0 +1,11 @@
+,Name,Years,City,Country,Age_Group,Date,Sales,Category,Region
+0,Alice Smith,28,New York,USA,Young,2024-03-12,621,Health,North
+1,Bob Johnson,34,Los Angeles,USA,Old,2024-03-12,393,Fashion,North
+2,Charlie Lee,22,Chicago,USA,Young,2024-03-01,840,Fashion,East
+3,Diana Brown,29,Houston,USA,Young,2024-04-06,249,Electronics,South
+4,Ethan Davis,31,Phoenix,USA,Old,2024-06-29,588,Groceries,North
+5,Fiona White,25,Philadelphia,USA,Young,2024-05-12,927,Groceries,West
+6,George Clark,37,San Antonio,USA,Old,2024-04-23,861,Groceries,North
+7,Hannah Scott,24,San Diego,USA,Young,2024-01-10,793,Fashion,West
+8,Ian Wright,33,Dallas,USA,Old,2024-01-06,825,Fashion,North
+9,Julia Green,27,San Jose,USA,Young,2024-03-05,292,Health,North
